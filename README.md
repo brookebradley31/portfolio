@@ -16,11 +16,11 @@ I am a mathematically-driven Data Analyst currently working in the **National Pr
 ## Projects
 
 ### [Cyclistic Bike-Share Case Study](https://github.com/brookebradley31/Cyclistic-Case-Study)
-**Tools:** SQL, R, Tableau
+**Tools:** SQL, Tableau
 * Applied the "Ask, Prepare, Process, Analyze, Share, Act" framework to 12 months of historical bike-share data.
-* Used **R** for statistical analysis to identify significant differences in usage patterns between casual riders and members.
+* Used **SQL** for statistical analysis to identify significant differences in usage patterns between casual riders and members.
 * Developed a high-level Tableau dashboard to communicate findings to marketing stakeholders.
-* **[View Full Case Study →](https://github.com/brookebradley31/Cyclistic-Case-Study)**
+* **[View Full Case Study](https://github.com/brookebradley31/Cyclistic-Case-Study)**
 
 ---
 
